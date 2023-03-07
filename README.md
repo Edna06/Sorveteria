@@ -1,19 +1,18 @@
 
-# Sorveteria
+# Ice-cream parlor
 
-O projeto trata-se de uma reprodução de uma página Web de Sorveteria, seguindo um modelo de layout disponíbilizado no figma pelo programa Explorer. 
+The project is a reproduction of an ice cream shop web page, following a layout model made available in figma by the Explorer program.
 
+## It was used for the construction of the project:
 
-## Utilizou-se para a construção do projeto: 
+- HTML5 & CSS3
 
-- HTML5 & CSS
+## Purpose of the project
 
-## O intuito do projeto
+-> Put into practice knowledge about:
 
--> Colocar em prática os conhecimentos acerca de:
+- Use of figma
+- Responsiveness
+- Directing objects using the CSS display grid property and its properties
 
-- Utilização de figma 
-- Responsividade
-- Direcionamento de objetos utilizando a propriedade do CSS display grid e suas propriedades
-
-![Captura de tela de 2022-06-05 21-46-17](https://user-images.githubusercontent.com/102126245/172077721-b58b5e48-5cd8-4c07-b486-feec488ef3f3.png)
+![Screenshot from 2023-03-07 13-09-04](https://user-images.githubusercontent.com/102126245/223479895-3b56e731-6967-4279-b27f-b220f28b2403.png)
